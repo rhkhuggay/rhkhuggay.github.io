@@ -1,0 +1,11 @@
+- name: Python
+  percentage: 70
+  color: 
+
+- name: Matlab/Simulink
+  percentage: 80
+  color:
+
+- name: HTML
+  percentage: 20
+  color: 
