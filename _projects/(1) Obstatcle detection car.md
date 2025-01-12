@@ -7,7 +7,7 @@ description: Feb. 2023 - May 2023 This project is an RC car showcasing a concept
 
 # Obstacle Detection Car
 ###### **Collaborator/s:** Jacob Feingold, Panithan Lertsuntivit
-###### November 2022 - June 2023
+###### February 2023 - May 2023
 
 ![Preview](https://raw.githubusercontent.com/rhkhuggay/Projects/refs/heads/main/ME100%20Project/ME100_project.png)
 
