@@ -8,6 +8,7 @@ description: Feb. 2024 - Present This project explores the application of thick 
 # SACS-1 Magnetorquer
 ###### **Collaborator:** Hannah Nabavi, Jason Wang
 ###### February 2024 - Present
+___
 What is the hardest problem you have had to solve?
 S - Multimaterial samples can be folded numerous times. To test fatigue, we had to fold hte sample at least 200 times to show reliable result. Can’t be done manually as each cycle need to be folded at the same rate and this has to be done for 9 different samples with different parameters.
 T- Coming up with a testing apparatus for fatigue of multimaterial samples
