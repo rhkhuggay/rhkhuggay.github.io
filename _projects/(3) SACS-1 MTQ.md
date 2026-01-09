@@ -8,6 +8,7 @@ description: Nov. 2022 - June 2023 showcase my process of building the magnetorq
 # SACS-1 Magnetorquer
 ###### **Collaborator:** Liliana Figueroa
 ###### November 2022 - June 2023
+___
 showcases my process of building an actuator (i.e. magnetorquer) used in a 1U CubeSat for our club, Sacramento Area Community Satellite-1 (SACS-1) from design to manufacture. SACS-1 is a club in Sacramento City College that aims to be the first community college to successfully build a CubeSat.
 
 **Magnetorquers** are electromagnetic magnets that utilize the magnetic field of the earth to perform 3-axis rotation in space. Its low cost and simple structure make it a perfect actuator for a 1U CubeSat. Its an important component because it plays a key role in the detumbling system of the nanosatellite once it is launched to space. It makes it so the CubeSat is stable where it has low vibration and doesn’t stray away from its orbit. It is also responsible for rotating the nanosatellite on its desired orientation in space. Follow my [documentation](https://docs.google.com/document/d/11V9w1XGCnnsr7letKRpxvJmqPrci4VQk/edit?usp=sharing&ouid=115316958453930829473&rtpof=true&sd=true) for more information.

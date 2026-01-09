@@ -7,7 +7,7 @@ description: Oct. 2024 - Dec 2024 Scientific Paper focus on analyzing the streng
 # Analysis and Characterization of Househoold Duct Tape Brands
 ###### **Collaborators:** Akshat Kumar, Edwin Lopez, Siddhart, Ken Chen, Aashray
 ###### October 2024 - December 2024
-
+___
 **Abstract:** This investigation aims to characterize the material properties of various
 common household duct tape brands. Tape samples from each of the four brands (Duck,
 3M, Scotch, and Gorilla) were tested to failure using an Instron following the specifications

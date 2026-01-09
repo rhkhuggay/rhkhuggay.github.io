@@ -8,7 +8,7 @@ description: Feb. 2024 - May 2024 This project is an RC car showcasing a concept
 # Obstacle Detection Car
 ###### **Collaborator/s:** Jacob Feingold, Panithan Lertsuntivit
 ###### February 2024 - May 2024
-
+___
 ![Preview](https://raw.githubusercontent.com/rhkhuggay/Projects/refs/heads/main/ME100%20Project/ME100_project.png)
 
 **Figure 1:** RC car and controller

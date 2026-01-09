@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : My Portfolio
+title               : Rhonin H.
 description         : >- 
-                      Hi i'm Rhonin Huggay and welcome to my Portfolio
+                      Welcome to my Portfolio!
                       
 baseurl             :            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : rhkhuggay/rhkhuggay.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Rhonin Huggay
-  image             : "images/profpic2.jpg"
+  image             : "images/PP1.png"
 #  behance           : your_username
 # dribbble          : your_username
   email             : rhkhuggay@gmail.com
