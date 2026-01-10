@@ -40,7 +40,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Rhonin Huggay
-  image             : "images/PP1.png"
+  image             : "images\PP1.png"
 #  behance           : your_username
 # dribbble          : your_username
   email             : rhkhuggay@gmail.com
