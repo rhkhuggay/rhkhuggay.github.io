@@ -21,9 +21,17 @@ weight: 3
     </p>
   </div>
   <p class="lead" style="font-size: 1rem; line-height: 1.6; text-indent: 40px;">
+<<<<<<< HEAD
  As a structures engineer at Space Enterprise at Berkeley (SEB), I specialize in the structural analysis and DFMA of components for our bi-propellant rocket. I am also an undergraduate researcher in the Gu Research Group, where I optimize bio-inspired propellers using ANSYS and thrust stand testing. Furthermore, through advanced class projects, I have gained hands-on experience in mechatronic design, Design of Experiments (DOE), and advanced manufacturing processes. Beyond engineering, I am an avid runner and fitness enthusiast, recently completing the 2025 berkeley half marathon.
     </p>
     
+=======
+ As a structures engineer at Space Enterprise at Berkeley (SEB), I specialize in the structural analysis and DFMA of components for our bi-propellant rocket. I am also an undergraduate researcher in the Gu Research Group, where I optimize bio-inspired propellers using ANSYS and thrust stand testing. Furthermore, through advanced class projects, I have gained hands-on experience in mechatronic design, Design of Experiments (DOE), and advanced manufacturing processes.
+    </p>
+    <p class="lead" style="font-size: 1rem; line-height: 1.6; text-indent: 40px;">
+    Beyond engineering, I am an avid runner and fitness enthusiast. I've recently completed the berkeley half marathon (13 miles) on November 2025.
+    </p>
+>>>>>>> 27aa34c80d3eee970c1d694cb4984e9a8d1241ed
 </div>
 <!-- This section is the timeline -->
 <div class="row">
