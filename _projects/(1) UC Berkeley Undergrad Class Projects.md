@@ -27,7 +27,7 @@ ___
 For my MECENG 130 (Design of Planar Machineries) final project, I developed a MATLAB simulation using kinetostatic analysis on a 4-bar linkage model of a single-leg pedaling system. The project successfully determined the optimal bicycle saddle height that minimizes knee-joint load, providing a theoretical validation for popular, experimentally-derived fitting methods (e.g., Hamley, LeMond).
 </p>
 
-{% include elements/figure.html image="..\images\ME130_diagram.png" %}
+{% include elements/figure.html image="../images/UCBerkeley_undergrad/ME130_diagram.png" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://drive.google.com/file/d/191gWbL7SsXyeodLGF1TsKzNfSvwPpLN0/view?usp=sharing" text="Learn More" %}
@@ -43,7 +43,7 @@ Led research to experimentally optimized TPU hinge size in 3D printable and depl
 </p>
 
 
-{% include elements/figure.html image="..\images\UCBerkeley_undergrad\OrigamiProject_cover_page.png" %}
+{% include elements/figure.html image="../images/UCBerkeley_undergrad/OrigamiProject_cover_page.png" %}
 
 {% include elements/video.html id="XRCKx74p40I" %}
 
@@ -59,7 +59,7 @@ ___
 <p class="lead" style="font-size: 1rem; line-height: 1.6; text-indent: 40px;">
 The goal of this research is to analyze the strength per cost of common Duct Tape Brands (i.e. Scotch, 3M, Duck, Gorilla) and determine the the cost-effective brand in terms of tensile strength. Through this work, I gain experience in utilizing an Instron for tensile testing, plotting stress-strain graphs, and statistical error analysis.  
 </p>
-{% include elements/figure.html image="..\images\UCBerkeley_undergrad/ME103_diagram.png" %}
+{% include elements/figure.html image="../images/UCBerkeley_undergrad/ME103_diagram.png" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://drive.google.com/file/d/1_Hy9LuYH-EkjDJz6zdFN6-1K1aMcR9n_/view?usp=sharing" text="Learn More" %}
