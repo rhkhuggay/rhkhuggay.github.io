@@ -27,7 +27,7 @@ ___
 For my MECENG 130 (Design of Planar Machineries) final project, I developed a MATLAB simulation using kinetostatic analysis on a 4-bar linkage model of a single-leg pedaling system. The project successfully determined the optimal bicycle saddle height that minimizes knee-joint load, providing a theoretical validation for popular, experimentally-derived fitting methods (e.g., Hamley, LeMond).
 </p>
 
-{% include elements/figure.html image="..\images\UCBerkeley_undergrad\ME130_diagram.png" %}
+{% include elements/figure.html image="..\images\ME130_diagram.png" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://drive.google.com/file/d/191gWbL7SsXyeodLGF1TsKzNfSvwPpLN0/view?usp=sharing" text="Learn More" %}
