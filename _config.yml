@@ -2,12 +2,28 @@
 title               : Rhonin H.
 description         : >- 
                       Welcome to my Portfolio!
+                      <div class="d-flex justify-content-center align-items-center mt-3">
+  
+                        <span class="text-muted">|</span>
+
+                        <a class="nav-item nav-link " href="/projects/1-uc-berkeley-undergrad-class-projects.html">UC Berkeley</a>
+
+                        <span class="text-muted">|</span>
+
+                        <a class="nav-item nav-link " href="/projects/2-sacs-1-mtq.html">SACS-1</a>
+
+                        <span class="text-muted">|</span>
+
+                      </div>
+    
+
                       
 baseurl             :            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : rhkhuggay/rhkhuggay.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+    
 
 ### Plugins ###
 plugins:
